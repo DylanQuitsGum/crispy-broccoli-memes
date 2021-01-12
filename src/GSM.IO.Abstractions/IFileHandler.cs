@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GSM.IO
+namespace gsm.IO
 {
     public interface IFileHandler
     {

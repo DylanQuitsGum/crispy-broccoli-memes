@@ -2,7 +2,7 @@
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
 
-namespace GSM
+namespace gsm
 {
     public class ObservableObject : INotifyPropertyChanged
     {
