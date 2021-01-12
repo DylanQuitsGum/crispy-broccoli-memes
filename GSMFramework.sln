@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gsm.IoC.Events.Abstractions
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gsm.IoC.Events", "src\gsm.IoC.Events\gsm.IoC.Events.csproj", "{43F83028-B377-44B4-B6DD-4C305A11AB1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gsm.MVVM", "src\gsm.MVVM\gsm.MVVM.csproj", "{7E7105EC-5AB7-42E9-BB59-83FB9C626A64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{43F83028-B377-44B4-B6DD-4C305A11AB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43F83028-B377-44B4-B6DD-4C305A11AB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43F83028-B377-44B4-B6DD-4C305A11AB1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E7105EC-5AB7-42E9-BB59-83FB9C626A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7105EC-5AB7-42E9-BB59-83FB9C626A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7105EC-5AB7-42E9-BB59-83FB9C626A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7105EC-5AB7-42E9-BB59-83FB9C626A64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

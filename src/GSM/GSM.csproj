@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>gsm</RootNamespace>
+    <Authors>Greg Satterlee</Authors>
   </PropertyGroup>
 
 </Project>
