@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>gsm</RootNamespace>
+    <RootNamespace>gsm.IO</RootNamespace>
   </PropertyGroup>
 
 </Project>
